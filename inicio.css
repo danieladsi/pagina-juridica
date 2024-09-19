@@ -1,0 +1,30 @@
+h1{
+    color: brown;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.sobre-nosotros {
+    background-color: #ffffff;
+    border: 2px solid #030303; /* Borde azul */
+    border-radius: 8px; /* Esquinas redondeadas */
+    max-width: 800px; /* Ancho máximo */
+    margin: 20px auto; /* Centrar en la página */
+    padding: 20px; /* Espacio interno */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+h2 {
+    color: #3498db; /* Color del encabezado */
+    text-align: center; /* Centrar el encabezado */
+}
+
+p {
+    line-height: 1.6; /* Espaciado entre líneas */
+    color: #333; /* Color del texto */
+}
